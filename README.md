@@ -15,5 +15,5 @@
 
 ## 项目运行方法
 
-使用Anacodna-Navigator中的
+使用Anacodna-Navigator中的Notebook或者JupyterLab打开和运行文件：main.ipynb。
 
